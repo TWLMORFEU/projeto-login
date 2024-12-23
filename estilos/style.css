@@ -24,6 +24,7 @@ body, html {
     background-color: var(--color05);
     width: 100vw;
     height: 100vh;
+    overflow: hidden;
 }
 
 main {
@@ -35,6 +36,8 @@ input::placeholder {
     color: rgb(255, 255, 255); /* Define a cor do placeholder */
     font-style: italic; /* Opcional: Deixa o texto em itálico */
 }
+
+
 
 
 section#login {

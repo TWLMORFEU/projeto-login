@@ -16,6 +16,10 @@
     box-sizing: border-box;
 }
 
+    html {
+        background-color: #4B3E10;
+    }
+
 body {
     background: linear-gradient(to bottom, rgb(87, 54, 16), black);
     overflow: hidden;
@@ -60,7 +64,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #664d0a url(../imagens/pexels-eberhardgross-1624497.jpg) no-repeat;
+    background: #6D5A17 url(../imagens/pexels-eberhardgross-1624497.jpg) no-repeat;
     background-size: cover;
     background-position:left top;
     height: 200px;

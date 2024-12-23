@@ -16,6 +16,10 @@ section#login > div#imagem {
     height: 100%;
 }
 
+div.campo > input {
+    transform: translateY(-14px);
+}
+
 section#login > div#formulario{
    float: right;
    width: 70%;
@@ -43,6 +47,10 @@ div#formulario > p {
     section#login {
         width: 940px;
         
+    }
+
+    div.campo > input {
+        transform: translateY(-14px);
     }
 
     section#login > div#imagem {
